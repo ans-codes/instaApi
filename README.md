@@ -1,4 +1,4 @@
-# NodeJS Instagram private API client
+# Instagram API
 
 yarn add github:ans-codes/instaApi
 
