@@ -1,4 +1,4 @@
 # NodeJS Instagram private API client
 
 #
-npm install github:dilame/instagram-private-api
+npm install github:ans-codes/instaApi
